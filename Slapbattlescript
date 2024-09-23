@@ -1,0 +1,271 @@
+local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
+local Window = OrionLib:MakeWindow({Name = "🖐🏼 Slap Battle Script VX", HidePremium = false, SaveConfig = true, ConfigFolder = "OrionTest"})
+
+local Tab = Window:MakeTab({
+	Name = "Main",
+	Icon = "rbxassetid://4483345998",
+	PremiumOnly = false
+})
+
+local Section = Tab:AddSection({
+	Name = "Gloves FE (UNVISUAL)"
+})
+
+OrionLib:MakeNotification({
+	Name = "Title!",
+	Content = "Make sure you liked and subscribe to GeramonDoggy!!",
+	Image = "rbxassetid://4483345998",
+	Time = 5
+})
+
+Tab:AddButton({
+	Name = "Normal Glove",
+	Callback = function()
+      		local soundId = "rbxassetid://3314301672" -- replace with the ID of your sound
+local sound = Instance.new("Sound")
+sound.SoundId = soundId
+sound.Volume = 1.5 -- adjust the volume to your liking (0.0 to 1.0)
+sound:Play()
+
+  	end    
+})
+
+Tab:AddButton({
+	Name = "Dual Glove",
+	Callback = function()
+      		local soundId = "rbxassetid://3314301672" -- replace with the ID of your sound
+local sound = Instance.new("Sound")
+sound.SoundId = soundId
+sound.Volume = 1.5 -- adjust the volume to your liking (0.0 to 1.0)
+sound:Play()
+
+  	end    
+})
+
+Tab:AddButton({
+	Name = "Diamond Glove",
+	Callback = function()
+      		local soundId = "rbxassetid://3314301672" -- replace with the ID of your sound
+local sound = Instance.new("Sound")
+sound.SoundId = soundId
+sound.Volume = 1.5 -- adjust the volume to your liking (0.0 to 1.0)
+sound:Play()
+
+  	end    
+})
+
+Tab:AddButton({
+	Name = "ZZZZZZZ Glove",
+	Callback = function()
+      		local soundId = "rbxassetid://3314301672" -- replace with the ID of your sound
+local sound = Instance.new("Sound")
+sound.SoundId = soundId
+sound.Volume = 1.5 -- adjust the volume to your liking (0.0 to 1.0)
+sound:Play()
+
+  	end    
+})
+
+Tab:AddButton({
+	Name = "Extended Glove",
+	Callback = function()
+      		local soundId = "rbxassetid://3314301672" -- replace with the ID of your sound
+local sound = Instance.new("Sound")
+sound.SoundId = soundId
+sound.Volume = 1.5 -- adjust the volume to your liking (0.0 to 1.0)
+sound:Play()
+
+  	end    
+})
+
+Tab:AddButton({
+	Name = "Brick Glove",
+	Callback = function()
+      		local soundId = "rbxassetid://3314301672" -- replace with the ID of your sound
+local sound = Instance.new("Sound")
+sound.SoundId = soundId
+sound.Volume = 1.5 -- adjust the volume to your liking (0.0 to 1.0)
+sound:Play()
+
+  	end    
+})
+
+Tab:AddButton({
+	Name = "Snow Glove",
+	Callback = function()
+      		local soundId = "rbxassetid://3314301672" -- replace with the ID of your sound
+local sound = Instance.new("Sound")
+sound.SoundId = soundId
+sound.Volume = 1.5 -- adjust the volume to your liking (0.0 to 1.0)
+sound:Play()
+
+  	end    
+})
+
+Tab:AddButton({
+	Name = "Pull Glove",
+	Callback = function()
+      		local soundId = "rbxassetid://3314301672" -- replace with the ID of your sound
+local sound = Instance.new("Sound")
+sound.SoundId = soundId
+sound.Volume = 1.5 -- adjust the volume to your liking (0.0 to 1.0)
+sound:Play()
+
+  	end    
+})
+
+Tab:AddButton({
+	Name = "Flash Glove",
+	Callback = function()
+      		local soundId = "rbxassetid://3314301672" -- replace with the ID of your sound
+local sound = Instance.new("Sound")
+sound.SoundId = soundId
+sound.Volume = 1.5 -- adjust the volume to your liking (0.0 to 1.0)
+sound:Play()
+
+  	end    
+})
+
+Tab:AddButton({
+	Name = "Spring Glove",
+	Callback = function()
+      		local soundId = "rbxassetid://3314301672" -- replace with the ID of your sound
+local sound = Instance.new("Sound")
+sound.SoundId = soundId
+sound.Volume = 1.5 -- adjust the volume to your liking (0.0 to 1.0)
+sound:Play()
+
+  	end    
+})
+
+Tab:AddButton({
+	Name = "Swapper Glove",
+	Callback = function()
+      		local soundId = "rbxassetid://3314301672" -- replace with the ID of your sound
+local sound = Instance.new("Sound")
+sound.SoundId = soundId
+sound.Volume = 1.5 -- adjust the volume to your liking (0.0 to 1.0)
+sound:Play()
+
+  	end    
+})
+
+Tab:AddButton({
+	Name = "Bull Glove",
+	Callback = function()
+      		local soundId = "rbxassetid://3314301672" -- replace with the ID of your sound
+local sound = Instance.new("Sound")
+sound.SoundId = soundId
+sound.Volume = 1.5 -- adjust the volume to your liking (0.0 to 1.0)
+sound:Play()
+
+  	end    
+})
+
+Tab:AddButton({
+	Name = "Dice Glove",
+	Callback = function()
+      		local soundId = "rbxassetid://3314301672" -- replace with the ID of your sound
+local sound = Instance.new("Sound")
+sound.SoundId = soundId
+sound.Volume = 1.5 -- adjust the volume to your liking (0.0 to 1.0)
+sound:Play()
+
+  	end    
+})
+
+Tab:AddButton({
+	Name = "Ghost Glove",
+	Callback = function()
+      		local soundId = "rbxassetid://3314301672" -- replace with the ID of your sound
+local sound = Instance.new("Sound")
+sound.SoundId = soundId
+sound.Volume = 1.5 -- adjust the volume to your liking (0.0 to 1.0)
+sound:Play()
+
+  	end    
+})
+
+Tab:AddButton({
+	Name = "Thanos Glove",
+	Callback = function()
+      		local soundId = "rbxassetid://3314301672" -- replace with the ID of your sound
+local sound = Instance.new("Sound")
+sound.SoundId = soundId
+sound.Volume = 1.5 -- adjust the volume to your liking (0.0 to 1.0)
+sound:Play()
+
+  	end    
+})
+
+Tab:AddButton({
+	Name = "Stun Glove",
+	Callback = function()
+      		local soundId = "rbxassetid://3314301672" -- replace with the ID of your sound
+local sound = Instance.new("Sound")
+sound.SoundId = soundId
+sound.Volume = 1.5 -- adjust the volume to your liking (0.0 to 1.0)
+sound:Play()
+
+  	end    
+})
+
+Tab:AddButton({
+	Name = "LOLBOMB Glove",
+	Callback = function()
+      		local soundId = "rbxassetid://3314301672" -- replace with the ID of your sound
+local sound = Instance.new("Sound")
+sound.SoundId = soundId
+sound.Volume = 1.5 -- adjust the volume to your liking (0.0 to 1.0)
+sound:Play()
+
+  	end    
+})
+
+Tab:AddButton({
+	Name = "ZA HANDO Glove",
+	Callback = function()
+      		local soundId = "rbxassetid://3314301672" -- replace with the ID of your sound
+local sound = Instance.new("Sound")
+sound.SoundId = soundId
+sound.Volume = 1.5 -- adjust the volume to your liking (0.0 to 1.0)
+sound:Play()
+
+  	end    
+})
+
+Tab:AddButton({
+	Name = "Fort Glove",
+	Callback = function()
+      		local soundId = "rbxassetid://3314301672" -- replace with the ID of your sound
+local sound = Instance.new("Sound")
+sound.SoundId = soundId
+sound.Volume = 1.5 -- adjust the volume to your liking (0.0 to 1.0)
+sound:Play()
+
+  	end    
+})
+
+Tab:AddButton({
+	Name = "Magnet Glove",
+	Callback = function()
+      		local soundId = "rbxassetid://3314301672" -- replace with the ID of your sound
+local sound = Instance.new("Sound")
+sound.SoundId = soundId
+sound.Volume = 1.5 -- adjust the volume to your liking (0.0 to 1.0)
+sound:Play()
+
+  	end    
+})
+
+Tab:AddButton({
+	Name = "KillStreak",
+	Callback = function()
+      		local soundId = "rbxassetid://3314301672" -- replace with the ID of your sound
+local sound = Instance.new("Sound")
+sound.SoundId = soundId
+sound.Volume = 1.5 -- adjust the volume to your liking (0.0 to 1.0)
+sound:Play()
+
+  	end    
+})
